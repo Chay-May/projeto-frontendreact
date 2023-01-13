@@ -1,6 +1,6 @@
 import { StyleButton, StyleCard, StyleImagem, StyleInfo } from "./style";
 
-function Cards(propsc) {
+function Cards(props) {
   return (
   <StyleCard>
     <StyleInfo>

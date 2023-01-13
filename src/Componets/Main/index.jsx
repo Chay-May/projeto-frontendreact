@@ -6,12 +6,13 @@ import produtos from "../../Produtos/produtos.json";
 function Main() {
 
 const cardProdutos = produtos.map(item => {
+  console.log(item.imageURL)
     return (
       <Cards
       key={item.id}
       nome={item.nome}
       valor={item.valor}
-      imagem={item.imagem}
+      imagem={item.imageURL}
       />
     )
   })
