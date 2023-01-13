@@ -3,63 +3,70 @@
         "id": 0,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/Imagem%20do%20WhatsApp%20de%202023-01-12%20%C3%A0(s)%2020.39.39.jpg"
     },
     
     {
         "id": 1,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/Imagem%20do%20WhatsApp%20de%202023-01-12%20%C3%A0(s)%2020.39.41.jpg"
     },
     
     {
         "id": 2,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/legobalao-removebg-preview.png"
     },
     
     {
         "id": 3,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/legobandeira-removebg-preview.png"
     },
     
     {
         "id": 4,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "src/imagens/Imagem do WhatsApp de 2023-01-12 à(s) 20.39.39.jpg"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/legoluaaceso-removebg-preview.png"
     },
     
     {
         "id": 5,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/livrouniverso-removebg-preview.png"
     },
     
     {
         "id": 6,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/luminaria_medidas-removebg-preview.png"
     },
     
     {
         "id": 7,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/minipecas-removebg-preview.png"
     },
 
     {
         "id": 8,
         "nome": "Brinquedo girassol",
         "valor": 10.50,
-        "imagem": "https://brandili.vteximg.com.br/arquivos/ids/273753-484-670/image-f92a45331d4a480785007422b03bdca8.jpg?v=637783053894130000"
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/quebra-cabeca-removebg-preview.png"
+    },
+
+    {
+        "id": 9,
+        "nome": "Brinquedo girassol",
+        "valor": 10.50,
+        "imagem": "https://github.com/Chay-May/projeto-frontendreact/blob/projetofront-chayennemayara-barbosa-c/src/imagens/universo_2-removebg-preview.png"
     }
     
 ]
