@@ -1,19 +1,26 @@
 import Cards from "../Cards";
 import Carrinho from "../Carrinho";
 import { StyleCarrinho, StyleGaleria, StyleMain } from "./style";
+import produtos from "../../Produtos/produtos.json";
 
 function Main() {
+
+const cardProdutos = produtos.map(item => {
+    return (
+      <Cards
+      key={item.id}
+      nome={item.nome}
+      valor={item.valor}
+      imagem={item.imagem}
+      />
+    )
+  })
+
   return (
     <StyleMain>
       <StyleGaleria>
-        <Cards />
-        <Cards />
-        <Cards />
-        <Cards />
-        <Cards />
-        <Cards />
-        <Cards />
-        <Cards />
+        {cardProdutos}
+       
       </StyleGaleria>
       <div>
       <div>
@@ -25,7 +32,7 @@ function Main() {
         </StyleCarrinho>
         <Carrinho />
       </div>
-      <div className="text-center">
+      <div>
         <p>TOTAL: R$ 150,00</p>
       </div>
       </div>
