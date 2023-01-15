@@ -1,0 +1,86 @@
+[
+    {
+        "id": 0,
+        "nome": "Ônibus Espacial",
+        "valor": 369.00,
+        "imageURL": "https://imgs.casasbahia.com.br/1526779014/1xg.jpg?imwidth=500"
+    },
+    
+    {
+        "id": 1,
+        "nome": "Luminária Disco Voador Ovni",
+        "valor": 137.95,
+        "imageURL": "https://http2.mlstatic.com/D_NQ_NP_2X_791886-MLB47878024329_102021-F.webp"
+    },
+    
+    {
+        "id": 2,
+        "nome": "Carrinho de Fricçã Missão Espacial",
+        "valor": 125.90,
+        "imageURL": "https://cdn.awsli.com.br/600x450/498/498617/produto/177238871bd1910bb45.jpg"
+    },
+    
+    {
+        "id": 3,
+        "nome": "Pistola Missão Espacial Beta",
+        "valor": 48.90,
+        "imageURL": "https://images.tcdn.com.br/img/img_prod/864618/brinquedo_pistola_missao_espacial_beta_som_luz_projeta_imagem_dmt6150_4577_2_c5a40ca40c39b60db69a50265ff24009.jpg"
+    },
+    
+    {
+        "id": 4,
+        "nome": "Banco Imobiliário Cósmico",
+        "valor": 88.90,
+        "imageURL": "https://rihappy.vtexassets.com/arquivos/ids/4085685-800-auto?v=637914418884600000&width=800&height=auto&aspect=true"
+    },
+    
+    {
+        "id": 5,
+        "nome": "Figura de Ação - Marvel - Groot",
+        "valor": 119.90,
+        "imageURL": "https://rihappy.vtexassets.com/arquivos/ids/4175633-800-auto?v=637928003461900000&width=800&height=auto&aspect=true"
+    },
+    
+    {
+        "id": 6,
+        "nome": "Buzz Lightyear Alisha Hawthorne",
+        "valor": 44.99,
+        "imageURL": "https://rihappy.vtexassets.com/arquivos/ids/4506748-800-auto?v=637952355382030000&width=800&height=auto&aspect=true"
+    },
+    
+    {
+        "id": 7,
+        "nome": "Blocos de Montar - Guerreiros do Espaço",
+        "valor": 110.90,
+        "imageURL": "https://rihappy.vtexassets.com/arquivos/ids/1891739-800-auto?v=637685399254700000&width=800&height=auto&aspect=true"
+    }, 
+    
+    {
+        "id": 8,
+        "nome": "Blocos de Montar - Defensores do Espaço",
+        "valor": 119.90,
+        "imageURL": "https://rihappy.vtexassets.com/arquivos/ids/4939494-800-auto?v=638019760876400000&width=800&height=auto&aspect=true"
+    },
+
+    {
+        "id": 9,
+        "nome": "Aventura Espacial Foguete 3D Toy Story 4",
+        "valor": 95.90,
+        "imageURL": "https://cdns1.2rscms.com.br/imgcache/2279/1000x/custom/2279/uploads/product/photo_606dae497990e.jpg.webp"
+    },
+
+    {
+        "id": 10,
+        "nome": "Brinquedo Primeiro Kit Espacial Hora Da Ciência",
+        "valor": 35.43,
+        "imageURL": "https://d2figssdufzycg.cloudfront.net/Custom/Content/Products/13/51/13515989_brinquedo-primeiro-kit-espacial-hora-da-ciencia-50-270053_m10_637703210710006360.jpg"
+    },
+
+    {
+        "id": 11,
+        "nome": "Projetor Mágico 360°Rotação Céu Estrelado",
+        "valor": 109.90,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTh5wByXnxS3negl3T6fbwX3F_qECc3Tyxg&usqp=CAU"
+    }
+    
+]
